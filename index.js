@@ -9,7 +9,7 @@ app.set('port', (process.env.PORT || 5000));
 //app.set('views', __dirname + '/views');
 
 app.get('/', function(request, response) {
-  response.end('index.html');
+  response.end(index.html);
 });
 
 app.listen(app.get('port'), function() {
