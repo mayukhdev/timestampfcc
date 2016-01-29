@@ -1,0 +1,21 @@
+{
+  "name": "timestampfcc",
+  "version": "1.0.0",
+  "description": "FCC timestamp",
+  "main": "index.js",
+  "scripts": {
+    "test": "node index.js"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/mayukhdev/timestampfcc.git"
+  },
+  "author": "Mayukh",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/mayukhdev/timestampfcc/issues"
+  },
+  "dependencies": {
+    "express": "4.13.3"
+  }
+}
